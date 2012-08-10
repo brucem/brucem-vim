@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/brucem/workspace/hobsons/tourney/app/classes/HobBracket.php'
+let g:netrw_dirhist_2='/home/brucem/workspace/ehound/localdev/application/config/deploy'
+let g:netrw_dirhist_3='/home/brucem/workspace/ehound/localdev'
