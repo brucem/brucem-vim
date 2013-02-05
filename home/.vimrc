@@ -282,7 +282,7 @@ map <C-J> <C-W>j<C-W>_
 map <C-K> <C-W>k<C-W>_
 set wmh=0
 call pathogen#infect()
-colorscheme solarized
+colorscheme jellybeans
 if &diff
 " vimdiff color scheme
   colorscheme jellybeans
