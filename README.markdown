@@ -1,6 +1,6 @@
 # My VIM config 
 
-It's a bit of a mess and could be cleaned up but puttinf it under revision
+It's a bit of a mess and could be cleaned up but putting it under revision
 control should be a step in right direction 
 
 To get started, install homesick:
